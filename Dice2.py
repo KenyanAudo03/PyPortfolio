@@ -1,0 +1,1 @@
+from Dice_game import main

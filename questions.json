@@ -1,0 +1,53 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Paris", "London", "Mexico"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Venus", "Earth"],
+        "answer": "Mars"
+    },
+    
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Beijing", "Tokyo", "Seoul", "Bangkok"],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Iron", "Silver"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Which programming language is known for its use in web development?",
+        "options": ["Java", "Python", "HTML", "C++"],
+        "answer": "HTML"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "Which one of the following is not a Programming Language?",
+        "options": ["Python", "HTML", "Java", "R"],
+        "answer": "HTML"
+    },
+    {
+        "question": "Which one of the following is not a component of a Computer?",
+        "options": ["Keyboard", "Mouse", "Power Bank", "Monitor"],
+        "answer": "Power Bank"
+    }
+    
+    
+]
+
+
+
